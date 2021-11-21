@@ -1,0 +1,6 @@
+<item name="Подъезд" type="node" icon="entrance.png">
+    <label text="Подъезд" />
+    <key key="entrance" value="staircase" />
+    <text key="ref" text="Номер"/>
+    <text key="addr:flats" text="Квартиры"/>
+</item>
